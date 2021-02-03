@@ -19,3 +19,7 @@ Another package to deal with CSV files in large scale. It has more tools then th
 
 ### [Remask](https://www.npmjs.com/package/remask)
 Powerful and lightweight package to mask a input value, like telephone number
+
+### [PM2](https://www.npmjs.com/package/pm2)
+PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
+<br>[Official website](https://pm2.keymetrics.io/)
