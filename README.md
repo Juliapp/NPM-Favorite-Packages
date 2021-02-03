@@ -1,6 +1,6 @@
 # Favorites Packages on NPM
 
-### [GPU.js](https://www.npmjs.com/package/gpu.js)
+## [GPU.js](https://www.npmjs.com/package/gpu.js)
 GPU.js is a JavaScript Acceleration library for GPGPU in JavaScript for Web and Node.
 [Article by LogRocket](https://blog.logrocket.com/improving-javascript-performance-with-gpu-js/)
 <br>[Official website](https://gpu.rocks/#/)
@@ -21,5 +21,5 @@ Another package to deal with CSV files in large scale. It has more tools then th
 Powerful and lightweight package to mask a input value, like telephone number
 
 ### [PM2](https://www.npmjs.com/package/pm2)
-PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
+Huge and powerfull production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 <br>[Official website](https://pm2.keymetrics.io/)
