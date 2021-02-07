@@ -23,7 +23,7 @@ GPU.js is a JavaScript Acceleration library for GPGPU in JavaScript for Web and 
 threads managers on CPU
 <br>
 
-### [worker-threads-pool](https://www.npmjs.com/package/node-worker-threads-pool)
+### [node-worker-threads-pool](https://www.npmjs.com/package/node-worker-threads-pool)
 Simple worker threads pool using Node's worker_threads module. Compatible with ES6+ Promise, Async/Await and TypeScript🚀
 <br>
 
