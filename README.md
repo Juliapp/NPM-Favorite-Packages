@@ -1,4 +1,4 @@
-# Favorites Packages on NPM
+# Favorites Node Modules
 
 ## Frontend
 ### [React Hook Form](https://www.npmjs.com/package/react-hook-form)
