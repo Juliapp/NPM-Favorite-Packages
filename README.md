@@ -52,3 +52,11 @@ Another package to deal with CSV files in large scale. It has more tools then th
 Huge and powerfull production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 <br>[Official website](https://pm2.keymetrics.io/)
 <br>
+
+---
+
+
+## :building_construction: Development process
+### [ts-node-dev](ts-node-dev)
+Typescript compilation process (no need to instantiate ts-node compilation each time)
+<br>
